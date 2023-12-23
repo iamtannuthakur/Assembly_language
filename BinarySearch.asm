@@ -1,3 +1,5 @@
+;program of binary search
+
 .model small
 .386
 .data
