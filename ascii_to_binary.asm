@@ -1,3 +1,4 @@
+;program to convert ascii to binary
 .model small
 .386
 .data
