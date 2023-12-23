@@ -1,3 +1,5 @@
+;Program of linear search 
+
 .model SMALL
 .386
 .data
